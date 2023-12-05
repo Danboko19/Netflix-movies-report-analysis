@@ -126,9 +126,13 @@ Christopher Nolan directed just a movies with a duration of "148 minute"
 
 ![q16](https://github.com/Danboko19/Netflix-movies-report-analysis/assets/148493509/652e9cf7-2811-4f05-bb21-5687faacebd4)
 
-#### Q19)  How many movies were directed by Steven Spielberg?
+####  How many movies were directed by Steven Spielberg?
 Steve speilberg directed a total of "11" movies
 
 ![Q19](https://github.com/Danboko19/Netflix-movies-report-analysis/assets/148493509/a09ac98a-9bcd-4f9f-a394-b6cb4486c6e4)
 
+#### 5 directors with the most movies in the dataset
+![Q21](https://github.com/Danboko19/Netflix-movies-report-analysis/assets/148493509/b0da447a-d3f4-4492-8aea-257372e12ed6)
 
+#### Directors with most tv show in the dataset
+![q22](https://github.com/Danboko19/Netflix-movies-report-analysis/assets/148493509/73fea81a-4e6b-42c5-aa3e-b79855094774)
