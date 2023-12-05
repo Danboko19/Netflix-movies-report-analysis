@@ -16,8 +16,27 @@ The data was a csv file before being imported to my sql, did neccessary cleaning
 
 ## Explaining all columns
 Show_id: This is a unique serial number that is assign to every show to identify each of the show;
+
 Type: This only have two things, movies and tv shows, the tells the tye of show;
+
 Title: The main identifier of every shows, its the name given to the show, and it is use to look up the shows on the platform
+
 Directors: The director is like a scientist that produced a drug, he directed every steps of the shows
+
 Country: That is the country of production of the show
+
 Date_year: This is the exact added the movies are added to each platform. And it's denoted in mm/dd/yyyy format
+
+Released_year: This shows the year each shows were released, and it's denoted in yyyy format
+
+Ratings: This the average viewer remarks on the shows
+
+Durations: this is the time needed to complete each shows, and are categorised into two, mminute, and seasons, each representing Movies and Tv shows 
+
+Listed_in:  This shows the categories of movies they are as either to who cn watch it
+
+Month_added: shows the month they are added to platform
+
+Day_added: The day of the month they are added
+
+Year_added: Shows the year they are added to platform
